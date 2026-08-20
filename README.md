@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi I'm Jatin Panigrahy. 
+# Hi, I'm Jatin Panigrahy. 
 # I'm an Engineering Student based in New Delhi.
 
 <!--
