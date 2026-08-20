@@ -4,6 +4,9 @@
 ---
 
 ### My Projects
+*    **[Github Intelligence Dashboard](https://github.com/jatinpanigrahy/github-intel-dashboard)**
+     A lightweight, efficient dashboard for analyzing public GitHub profiles. It's designed to provide instant insights into developer activity, repository structures, and tech stacks.
+    [View Application](https://jatinp-inteldashboard.streamlit.app)
 
 *    **[Budget Application](https://github.com/jatinpanigrahy/budget-app)**
      A minimal, responsive web application built to track personal finances, manage category-based budgets, and analyze spending distributions.
