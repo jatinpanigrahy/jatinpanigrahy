@@ -4,6 +4,10 @@
 ---
 
 ### My Projects
+*    **[Automated Text Intelligence](https://github.com/jatinpanigrahy/automated-text-intel)**
+     A streamlined web application for rapid text parsing, summarization, and insight extraction utilizing LLMs.
+    [View Application](https://jatinp-textintel.streamlit.app)
+
 *    **[Github Intelligence Dashboard](https://github.com/jatinpanigrahy/github-intel-dashboard)**
      A lightweight, efficient dashboard for analyzing public GitHub profiles. It's designed to provide instant insights into developer activity, repository structures, and tech stacks.
     [View Application](https://jatinp-inteldashboard.streamlit.app)
