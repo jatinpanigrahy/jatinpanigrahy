@@ -1,13 +1,13 @@
 <!-- INTRODUCTION -->
 
-### My Projects
+### 💻 My Projects
 
 <!-- PORTFOLIO-START -->
 <!-- PORTFOLIO-END -->
 
 ---
 
-### 🛠 Tech Stack
+### ⚙️ Tech Stack
 
 - **Languages:** Python, JavaScript, SQL, HTML, CSS
 - **Frameworks & Libraries:** Flask, Streamlit, Pandas, Altair, BeautifulSoup4, Requests, Google GenAI SDK
@@ -17,4 +17,4 @@
 
 ---
 
-**[🌐 My Portfolio Website](https://jatinpanigrahy.github.io)**
+**[🔗 My Portfolio Website](https://jatinpanigrahy.github.io)**
