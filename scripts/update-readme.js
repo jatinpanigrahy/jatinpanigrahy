@@ -13,6 +13,7 @@ const GRAPHQL_QUERY = `
             name
             description
             url
+            homepageUrl
           }
         }
       }
@@ -24,6 +25,7 @@ const GRAPHQL_QUERY = `
           name
           description
           url
+          homepageUrl
           pushedAt
         }
       }
@@ -144,15 +146,21 @@ async function main() {
   const newline = readmeContent.includes('\r\n') ? '\r\n' : '\n';
 
   const markdownItems = repositories.map((repo) => {
-    const description = repo.description ? `${newline}  ${repo.description.trim()}` : '';
-    return `- **[${repo.name}](${repo.url})**${description}${newline}`;
+    let item = `- **[${repo.name}](${repo.url})**`;
+    if (repo.description) {
+      item += ` — ${repo.description.trim()}`;
+    }
+    if (repo.homepageUrl) {
+      item += ` <br> 🔗 [Website](${repo.homepageUrl.trim()})`;
+    }
+    return item;
   });
 
-  const portfolioMarkdown = markdownItems.join(newline);
+  const portfolioMarkdown = markdownItems.join(newline + newline);
 
   const updatedReadme = readmeContent.replace(
     portfolioRegex,
-    (match, startTag, endTag) => `${startTag}${newline}${portfolioMarkdown}${endTag}`
+    (match, startTag, endTag) => `${startTag}${newline}${portfolioMarkdown}${newline}${endTag}`
   );
 
   try {
