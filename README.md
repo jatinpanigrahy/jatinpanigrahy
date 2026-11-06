@@ -14,8 +14,6 @@
 - **[github-dev-analytics](https://github.com/jatinpanigrahy/github-dev-analytics)** — A fast, interactive dashboard to visualize GitHub profiles and repository data in real-time. Built with Python and Streamlit, featuring automated caching and a clean, responsive design. <br> 🔗 [Website](https://jatinp-gh-analytics.streamlit.app/)
 
 - **[budget-tracker](https://github.com/jatinpanigrahy/budget-tracker)** — An interactive personal budget tracker and spending dashboard. Built with Python and Streamlit, featuring category-based budgeting, real-time analytics, and portable JSON data persistence. <br> 🔗 [Website](https://jatinp-budget-tracker.streamlit.app/)
-
-- **[settings-manager](https://github.com/jatinpanigrahy/settings-manager)** — A clean, responsive dashboard to customize, organize, and back up application settings in real-time. Built with Python and Streamlit, featuring multi-profile switching, type-aware controls, and client-side JSON persistence. <br> 🔗 [Website](https://settings-manager.streamlit.app/)
 <!-- PORTFOLIO-END -->
 
 - **[🔗 My Project Website](https://jatinpanigrahy.github.io)**
