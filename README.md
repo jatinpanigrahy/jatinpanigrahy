@@ -1,5 +1,15 @@
 <!-- INTRODUCTION -->
 
+### ⚙️ Tech Stack
+
+- **Languages:** Python, JavaScript, SQL, HTML5, CSS3
+- **Frameworks & Libraries:** Next.js, React, Node.js, Express, Flask, Streamlit, Tailwind CSS, Google GenAI SDK, Pandas, Requests
+- **Databases:** SQLite, MongoDB
+- **Deployment & Hosting:** Vercel, Azure, Cloudflare Pages, Streamlit Community Cloud, GitHub Pages, Git, CLI
+- **Focus Areas & Concepts:** Full-Stack Web Architecture, RESTful APIs & Integrations, Workflow Automation, Developer Tooling, LLM Workflows
+
+---
+
 ### 💻 My Projects
 
 <!-- PORTFOLIO-START -->
@@ -17,16 +27,6 @@
 <!-- PORTFOLIO-END -->
 
 - **[🔗 My Project Website](https://jatinpanigrahy.github.io)**
-
----
-
-### ⚙️ Tech Stack
-
-- **Languages:** Python, JavaScript, SQL, HTML5, CSS3
-- **Frameworks & Libraries:** Next.js, React, Node.js, Express, Flask, Streamlit, Tailwind CSS, Google GenAI SDK, Pandas, Requests
-- **Databases:** SQLite, MongoDB
-- **Deployment & Hosting:** Vercel, Azure, Cloudflare Pages, Streamlit Community Cloud, GitHub Pages, Git, CLI
-- **Focus Areas & Concepts:** Full-Stack Web Architecture, RESTful APIs & Integrations, Workflow Automation, Developer Tooling, LLM Workflows
 
 ---
 
