@@ -16,16 +16,21 @@
 - **[budget-tracker](https://github.com/jatinpanigrahy/budget-tracker)** — An interactive personal budget tracker and spending dashboard. Built with Python and Streamlit, featuring category-based budgeting, real-time analytics, and portable JSON data persistence. <br> 🔗 [Website](https://jatinp-budget-tracker.streamlit.app/)
 <!-- PORTFOLIO-END -->
 
+- **[🔗 My Project Website](https://jatinpanigrahy.github.io)**
+
 ---
 
 ### ⚙️ Tech Stack
 
-- **Languages:** Python, JavaScript, SQL, HTML, CSS
-- **Frameworks & Libraries:** Flask, Streamlit, Pandas, Altair, BeautifulSoup4, Requests, Google GenAI SDK
-- **Databases:** SQLite
-- **Deployment & Hosting:** PythonAnywhere, Streamlit Community Cloud, GitHub Pages
-- **Focus Areas & Concepts:** LLM Integration, Web Scraping & Data Extraction, RESTful APIs, Automation
+- **Languages:** Python, JavaScript, SQL, HTML5, CSS3
+- **Frameworks & Libraries:** Next.js, React, Node.js, Express, Flask, Streamlit, Tailwind CSS, Google GenAI SDK, Pandas, Requests
+- **Databases:** SQLite, MongoDB
+- **Deployment & Hosting:** Vercel, Azure, Cloudflare Pages, Streamlit Community Cloud, GitHub Pages, Git, CLI
+- **Focus Areas & Concepts:** Full-Stack Web Architecture, RESTful APIs & Integrations, Workflow Automation, Developer Tooling, LLM Workflows
 
 ---
 
-**[🔗 My Portfolio Website](https://jatinpanigrahy.github.io)**
+### 📬 Get in Touch
+
+- **Email:** <jatin.k.panigrahy@gmail.com>
+- **LinkedIn:** [linkedin.com/in/jatinpanigrahy](https://linkedin.com/in/jatinpanigrahy)
