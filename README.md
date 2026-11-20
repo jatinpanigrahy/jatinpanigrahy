@@ -17,13 +17,15 @@
 
 - **[csv-sanitizer](https://github.com/jatinpanigrahy/csv-sanitizer)** — CSV Sanitizer is a configurable Python tool designed to clean messy data in CSV files. It standardizes different formats across common business fields, detects duplicate rows using fuzzy matching, and generates a clear Markdown report summarizing every change made.
 
-- **[soc-recruitment-app](https://github.com/jatinpanigrahy/soc-recruitment-app)** — Pulse is a modern, unified recruitment management platform designed specifically for collegiate student organizations, tech clubs, cultural societies, and consulting bodies.
+- **[listing-tracker](https://github.com/jatinpanigrahy/listing-tracker)** — A Python CLI tool that tracks product prices and inventory over time from web catalogs. It crawls listing cards and detail pages, stores point-in-time snapshots in a local SQLite database, and exports structured CSV reports with computed price deltas and historical extrema.
 
-- **[content-analyzer](https://github.com/jatinpanigrahy/content-analyzer)** — A fast, responsive web application to analyze digital content using large language models. It extracts text from web pages, processes it into structured insights across eight specialized analysis modes, and generates export-ready Markdown and PDF reports. <br> 🔗 [Website](https://jatinp-content-analyzer.streamlit.app/)
+- **[data-reports](https://github.com/jatinpanigrahy/data-reports)** — reportgen is a command-line tool and Python library that converts tabular transaction CSVs into single-page executive PDF financial reports.
+
+- **[soc-recruitment-app](https://github.com/jatinpanigrahy/soc-recruitment-app)** — Pulse is a modern, unified recruitment management platform designed specifically for collegiate student organizations, tech clubs, cultural societies, and consulting bodies.
 
 - **[github-dev-analytics](https://github.com/jatinpanigrahy/github-dev-analytics)** — A fast, interactive dashboard to visualize GitHub profiles and repository data in real-time. Built with Python and Streamlit, featuring automated caching and a clean, responsive design. <br> 🔗 [Website](https://jatinp-gh-analytics.streamlit.app/)
 
-- **[budget-tracker](https://github.com/jatinpanigrahy/budget-tracker)** — An interactive personal budget tracker and spending dashboard. Built with Python and Streamlit, featuring category-based budgeting, real-time analytics, and portable JSON data persistence. <br> 🔗 [Website](https://jatinp-budget-tracker.streamlit.app/)
+- **[content-analyzer](https://github.com/jatinpanigrahy/content-analyzer)** — A fast, responsive web application to analyze digital content using large language models. It extracts text from web pages, processes it into structured insights across eight specialized analysis modes, and generates export-ready Markdown and PDF reports. <br> 🔗 [Website](https://jatinp-content-analyzer.streamlit.app/)
 <!-- PORTFOLIO-END -->
 
 - **[🔗 My Project Website](https://jatinpanigrahy.github.io)**
